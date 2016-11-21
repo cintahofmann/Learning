@@ -4,9 +4,9 @@ So, here's supposed to be actual information? I guess
 
 ### Goals
 
-[ ] Goal 1
-[ ] Goal 2
-[ ] Goal 3
+- [ ] Goal 1
+- [ ] Goal 2
+- [ ] Goal 3
 
 ### Joke
 
