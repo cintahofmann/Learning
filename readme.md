@@ -4,9 +4,9 @@ So, here's supposed to be actual information? I guess
 
 ### Goals
 
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
+- [ ] Write my own function
+- [ ] Bike to the west coast of France
+- [ ] Fly in the F/A-18 Hornet
 
 ### Joke
 
